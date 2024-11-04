@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ I am enthusiastic about neuroscience<br>📚🎯 My goals are to tools development <br>🎲 My hobbies are reading, my cats, and playing nintendo</p>
+<p align="left">✨ I am enthusiastic about neuroscience<br>📚🎯 My goals are tools development <br>🎲 My hobbies are reading, my cats, and playing nintendo</p>
 
 ###
 
