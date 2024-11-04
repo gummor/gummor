@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm just a curious scientist<br>I can speak 🇬🇧 English, 🇧🇷 Portuguese and 🇪🇸 Spanish<br>Currently, I'm living in Sao Paulo BRA, studying in the molecular biology program as a PhD Student at a molecular neuroendocrinology lab, in the Department of Biophysics at UNIFESP<br>My biggest passions are neuroendocrinology, biochemistry, programming, and data analysis</h4>
+<h4 align="left">I'm a curious brazilian scientist<br>I can also speak 🇬🇧 English and 🇪🇸 Spanish<br>Currently, I'm living in Sao Paulo BRA in the biophysics departament as a PhD Candidate at UNIFESP<br>My biggest passions are neuroendocrinology and biochemistry</h4>
 
 ###
 
