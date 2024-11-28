@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm a curious brazilian scientist<br>I can also speak 🇬🇧 English and 🇪🇸 Spanish<br>Currently, I'm living in Sao Paulo BRA in the biophysics departament as a PhD Candidate at UNIFESP<br>My biggest passions are neuroendocrinology and biochemistry</h4>
+<h4 align="left">Curious scientist<br>🇬🇧 English and 🇪🇸 Spanish<br>Currently, Living in Sao Paulo BRA at biophysics departament as a PhD Candidate by UNIFESP<br>Biggest passions --> Biotech and Neuroendocrinology</h4>
 
 ###
 
@@ -18,11 +18,11 @@
 
 ###
 
-<p align="left">✨ I am enthusiastic about neuroscience<br>📚🎯 My goals are tools development <br>🎲 My hobbies are reading, my cats, and playing nintendo</p>
+<p align="left">Enthusiastic about neuroscience<br>📚🎯 My goals are tools development <br>🎲 My hobbies are reading, cats, and nintendo</p>
 
 ###
 
-<h2 align="left">Find me on</h2>
+<h2 align="left">You can find me on</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h4 align="left">+<br>1996's kid 🏳️‍🌈<br>Taurus sun<br>Sao Paulo BRA</h4>
+<h4 align="left">+<br>1996's kid <br>
 
 ###
 
