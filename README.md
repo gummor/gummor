@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Curious scientist<br>🇬🇧 English and 🇪🇸 Spanish<br>Currently, Living in Sao Paulo BRA at biophysics departament as a PhD Candidate by UNIFESP<br>Biggest passions --> Biotech and Neuroendocrinology</h4>
+<h4 align="left">Curious scientist<br>🇬🇧 English and 🇪🇸 Spanish<br>Living in Sao Paulo BRA at biophysics departament as a PhD Candidate by UNIFESP<br>Biggest passions --> Biotech and Neuroendocrinology</h4>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Enthusiastic about neuroscience<br>📚🎯 My goals are tools development <br>🎲 My hobbies are reading, cats, and nintendo</p>
+<p align="left">Enthusiastic about neuroscience and tool development<br>📚🎯 <br>🎲 My hobbies are reading, cats, and nintendo</p>
 
 ###
 
