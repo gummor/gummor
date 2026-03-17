@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Curious scientist<br>🇬🇧 English and 🇪🇸 Spanish<br>Living in Sao Paulo BRA at biophysics departament as a PhD Candidate by UNIFESP<br>Biggest passions --> Biotech and Neuroendocrinology</h4>
+<h4 align="left">Curious scientist<br>English, Portuguese and Spanish<br>Living in Sao Paulo BRA at biophysics departament as a PhD Candidate by UNIFESP<br>Biotech and Neuroendocrinology</h4>
 
 ###
 
