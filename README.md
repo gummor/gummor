@@ -1,4 +1,3 @@
-# Olá! Sou [Seu Nome] 👋
 ### Cientista de Dados | Machine Learning | Doutor em Ciências
 
 Sou um cientista de dados com base em pesquisa acadêmica, focado em transformar a extrema complexidade de sistemas dinâmicos em **modelos preditivos escaláveis e reprodutíveis**. 
