@@ -32,8 +32,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
 </div>
 
-###
-
-<h4 align="left">+<br>1996's kid <br>
 
 ###
