@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Curious scientist<br>English, Portuguese and Spanish<br>Living in Sao Paulo BRA at biophysics departament as a PhD Candidate by UNIFESP<br>Biotech and Neuroendocrinology</h4>
+<h4 align="left">Curious about neuroscience<br>English, Portuguese and Spanish<br>Living in Sao Paulo BRA at the Biophysics, UNIFESP<br>Biotech and Neuroendocrinology</h4>
 
 ###
 
@@ -15,10 +15,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
 </div>
-
-###
-
-<p align="left">Enthusiastic about neuroscience and tool development<br>📚🎯 <br>🎲 My hobbies are reading, cats, and nintendo</p>
 
 ###
 
