@@ -15,7 +15,7 @@ With a PhD in Molecular Biology, I specialize in transforming high-dimensional, 
 
 ## Featured Projects
 
-### [Clinical Triage API: Pre-eclampsia Risk](link-do-repositorio-aqui)
+Clinical Triage API: Pre-eclampsia Risk
 
 Predict pre-eclampsia risk using physiological markers (Copeptin).
 
@@ -23,7 +23,7 @@ Built a **Random Forest** model, wrapped it in a **FastAPI** RESTful service, an
 Scalable, environment-independent tool for real-time clinical decision support.
 * `Python` `FastAPI` `Docker` `Scikit-Learn`
 
-### [Large-Scale scRNA-seq Data Integration](link-do-repositorio-aqui)
+Large-Scale scRNA-seq Data Integration
 
 Identify hidden cellular patterns in massive, noisy single-cell RNA sequencing datasets.
 
